@@ -1,5 +1,7 @@
 # Privacy
 
+The original repo for this project is at https://github.com/webvalley2018/privacy
+
 ## Website
 
 We are using Github Pages, operating. out of this repository.
